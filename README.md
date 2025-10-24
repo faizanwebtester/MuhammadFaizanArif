@@ -54,7 +54,7 @@
 
 Feel free to reach out for collaborations or questions!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](github.com/faizanwebtester/MuhammadFaizanArif)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
