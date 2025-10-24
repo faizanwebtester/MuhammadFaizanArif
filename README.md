@@ -36,7 +36,7 @@
 
 ## My Learning Journey
 
-![Robot Chatbot GIF](https://cdn.pixabay.com/gifs/2022/07/18/13/56/robot-bot-chatbot-appear-hide-22566.gif)
+![Robot Chatbot GIF](https://www.freepik.com/free-psd/metaverse-poses-backgrounds_37577780.htm#fromView=keyword&page=1&position=1&uuid=cb392653-e097-43c4-ab02-2a0585de9f81&query=Technology+gif)
 
 - 📚 Currently learning WordPress plugin development.
 - 🔧 Planning to develop custom themes for WordPress.
