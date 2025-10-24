@@ -35,7 +35,7 @@
 ---
 
 ## My Learning Journey
-![Robot Chatbot GIF](https://cdn.pixabay.com/gifs/2022/07/18/13/56/robot-bot-chatbot-appear-hide-22566.gif)
+![Robot Chatbot GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdxZjBxY3dpODJvcmljbHBpYWVmazBiaWxhNWEzNm1qazJheGZmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
 - 📚 Currently learning WordPress plugin development.
 - 🔧 Planning to develop custom themes for WordPress.
 - 🖥️ Improving research skills for tech validation.
