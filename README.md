@@ -59,18 +59,5 @@ Feel free to reach out for collaborations or questions!
 
 ---
 
-### 🚀 Skills Animation (CSS)
-
-You can add simple CSS animations in your README using HTML, but note that GitHub might have limited support. Here's an example:
-
 ```html
-<!-- Example animated skill label -->
-<span style="animation: pulse 2s infinite; font-weight: bold;">Web Developer</span>
 
-<style>
-@keyframes pulse {
-  0% { color: #333; }
-  50% { color: #007bff; }
-  100% { color: #333; }
-}
-</style>
