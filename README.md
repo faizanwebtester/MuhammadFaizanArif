@@ -36,7 +36,7 @@
 
 ## My Learning Journey
 
-![Learning GIF](https://media.giphy.com/media/3oKIPwoeG0jF7m7dH6/giphy.gif)
+[![Learning GIF](https://media.giphy.com/media/3oKIPwoeG0jF7m7dH6/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hzODBlNDhkdHM5cm1qZ2liNjBkZ3dranNzeTQwcHh2eDQ4bzVkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif)
 
 - 📚 Currently learning WordPress plugin development.
 - 🔧 Planning to develop custom themes for WordPress.
