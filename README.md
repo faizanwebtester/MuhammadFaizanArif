@@ -2,7 +2,7 @@
 
 This repository contains the source code for my portfolio page, showcasing my skills in web development and WordPress.
 
----
+
 
 ## 1. HTML Structure (`index.html`)
 
