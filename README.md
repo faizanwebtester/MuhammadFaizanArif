@@ -1,7 +1,4 @@
-# Person's Portfolio Page
-# Student Portfolio - TechCoreVerity
-
-👋 Hi! I am **[Student Name]**, a passionate tech enthusiast with a focus on web development and WordPress. Welcome to my portfolio!
+👋 Hi! I am **[Muhammad Faizan Arif]**, a passionate tech enthusiast with a focus on web development and WordPress. Welcome to my portfolio!
 
 ---
 
@@ -55,7 +52,7 @@
 Feel free to reach out for collaborations or questions!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](github.com/faizanwebtester/MuhammadFaizanArif)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://github.com/faizanwebtester))
 
 ---
 
